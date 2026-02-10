@@ -1,0 +1,413 @@
+================================================================================
+CARDS WITHOUT MATCHING WORDPRESS IMAGES
+================================================================================
+
+Total unmatched: 81 out of 644 cards
+
+These cards need manual image URL updates in cards-data.json:
+
+1. 1991-92 Upper Deck International Italian #94 Shawn Kemp
+   Year: 1991-92 | Brand: Upper Deck International Italian | Set:  | #94
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1991-92-upper-deck-international-italian-94-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1991-92-upper-deck-international-italian-94-shawn-kemp-back.jpg
+
+2. 1993-94 Hoops Face to Face #3 Christian Laettner/Shawn Kemp
+   Year: 1993-94 | Brand: Hoops | Set: Face to Face | #3
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1993-94-hoops-face-to-face-3-christian-laettner-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1993-94-hoops-face-to-face-3-christian-laettner-shawn-kemp-back.jpg
+
+3. 1993-94 Hoops Fifth Anniversary Gold #207 Shawn Kemp
+   Year: 1993-94 | Brand: Hoops | Set: Fifth Anniversary Gold | #207
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1993-94-hoops-fifth-anniversary-gold-207-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1993-94-hoops-fifth-anniversary-gold-207-shawn-kemp-back.jpg
+
+4. 1993-94 SkyBox Premium Dynamic Dunks #D5 Shawn Kemp
+   Year: 1993-94 | Brand: Skybox Premium | Set: Dynamic Dunks | #D5
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1993-94-skybox-premium-dynamic-dunks-d5-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1993-94-skybox-premium-dynamic-dunks-d5-shawn-kemp-back.jpg
+
+5. 1993-94 SkyBox Premium Showdown Series #SS7 Shawn Kemp/Karl Malone
+   Year: 1993-94 | Brand: Skybox Premium | Set: Showdown Series | #SS7
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1993-94-skybox-premium-showdown-series-ss7-shawn-kemp-karl-malone.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1993-94-skybox-premium-showdown-series-ss7-shawn-kemp-karl-malone-back.jpg
+
+6. 1994 SkyBox USA #13 Shawn Kemp/International
+   Year: 1994 | Brand: Skybox USA | Set:  | #13
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-13-shawn-kemp-international.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-13-shawn-kemp-international-back.jpg
+
+7. 1994 SkyBox USA #14 Shawn Kemp/Rookie Years
+   Year: 1994 | Brand: Skybox USA | Set:  | #14
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-14-shawn-kemp-rookie-years.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-14-shawn-kemp-rookie-years-back.jpg
+
+8. 1994 SkyBox USA #15 Shawn Kemp/Best Game
+   Year: 1994 | Brand: Skybox USA | Set:  | #15
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-15-shawn-kemp-best-game.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-15-shawn-kemp-best-game-back.jpg
+
+9. 1994 SkyBox USA #16 Shawn Kemp/NBA Update
+   Year: 1994 | Brand: Skybox USA | Set:  | #16
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-16-shawn-kemp-nba-update.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-16-shawn-kemp-nba-update-back.jpg
+
+10. 1994 SkyBox USA #18 Shawn Kemp/Magic On
+   Year: 1994 | Brand: Skybox USA | Set:  | #18
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-18-shawn-kemp-magic-on.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-18-shawn-kemp-magic-on-back.jpg
+
+11. 1994 SkyBox USA Gold #17 Shawn Kemp/Trademark Move
+   Year: 1994 | Brand: Skybox USA | Set: Gold | #17
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-gold-17-shawn-kemp-trademark-move.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-skybox-usa-gold-17-shawn-kemp-trademark-move-back.jpg
+
+12. 1994 Upper Deck USA #27 Shawn Kemp/2-Time NBA All-Star
+   Year: 1994 | Brand: Upper Deck USA | Set:  | #27
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-upper-deck-usa-27-shawn-kemp-2-time-nba-all-star.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-upper-deck-usa-27-shawn-kemp-2-time-nba-all-star-back.jpg
+
+13. 1994-95 Hoops Power Ratings #PR49 Shawn Kemp
+   Year: 1994-95 | Brand: Hoops | Set: Power Ratings | #PR49
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-hoops-power-ratings-pr49-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-hoops-power-ratings-pr49-shawn-kemp-back.jpg
+
+14. 1994-95 SkyBox Premium #198 USA Basketball Card
+   Year: 1994-95 | Brand: Skybox Premium | Set:  | #198
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-skybox-premium-198-usa-basketball-card.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-skybox-premium-198-usa-basketball-card-back.jpg
+
+15. 1994-95 SkyBox Premium #307 Shawn Kemp SSL
+   Year: 1994-95 | Brand: Skybox Premium | Set:  | #307
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-skybox-premium-307-shawn-kemp-ssl.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-skybox-premium-307-shawn-kemp-ssl-back.jpg
+
+16. 1994-95 SkyBox Premium SkyTech Force #SF10 Shawn Kemp
+   Year: 1994-95 | Brand: Skybox Premium | Set: SkyTech Force | #SF10
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-skybox-premium-skytech-force-sf10-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-skybox-premium-skytech-force-sf10-shawn-kemp-back.jpg
+
+17. 1994-95 SP Championship Die Cuts #25 Shawn Kemp RF
+   Year: 1994-95 | Brand: SP Championship | Set: Die Cuts | #25
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-sp-championship-die-cuts-25-shawn-kemp-rf.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-sp-championship-die-cuts-25-shawn-kemp-rf-back.jpg
+
+18. 1994-95 SP Championship Die Cuts #125 Shawn Kemp
+   Year: 1994-95 | Brand: SP Championship | Set: Die Cuts | #125
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-sp-championship-die-cuts-125-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-sp-championship-die-cuts-125-shawn-kemp-back.jpg
+
+19. 1994-95 SP Championship Playoff Heroes #P3 Shawn Kemp
+   Year: 1994-95 | Brand: SP Championship | Set: Playoff Heroes | #P3
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-sp-championship-playoff-heroes-p3-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-sp-championship-playoff-heroes-p3-shawn-kemp-back.jpg
+
+20. 1994-95 SP Holoviews #PC22 Shawn Kemp
+   Year: 1994-95 | Brand: SP | Set: Holoviews | #PC22
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-sp-holoviews-pc22-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1994-95-sp-holoviews-pc22-shawn-kemp-back.jpg
+
+21. 1995-96 Collector's Choice Crash the Game Scoring Gold Redemption #C21 Shawn Kemp
+   Year: 1995-96 | Brand: Collector's Choice | Set: Crash the Game Scoring Gold Redemption | ##C21
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-collectors-choice-crash-the-game-scoring-gold-redemption-c21-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-collectors-choice-crash-the-game-scoring-gold-redemption-c21-shawn-kemp-back.jpg
+
+22. 1995-96 Metal Maximum Metal #5 Shawn Kemp
+   Year: 1995-96 | Brand: Metal | Set: Maximum Metal | #5
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-metal-maximum-metal-5-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-metal-maximum-metal-5-shawn-kemp-back.jpg
+
+23. 1995-96 SkyBox Premium Standouts #S9 Shawn Kemp
+   Year: 1995-96 | Brand: Skybox Premium | Set: Standouts | #S9
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-skybox-premium-standouts-s9-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-skybox-premium-standouts-s9-shawn-kemp-back.jpg
+
+24. 1995-96 SP Championship #98 Shawn Kemp
+   Year: 1995-96 | Brand: SP Championship | Set:  | #98
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-sp-championship-98-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-sp-championship-98-shawn-kemp-back.jpg
+
+25. 1995-96 SP Championship #142 Shawn Kemp RP
+   Year: 1995-96 | Brand: SP Championship | Set:  | #142
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-sp-championship-142-shawn-kemp-rp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-sp-championship-142-shawn-kemp-rp-back.jpg
+
+26. 1995-96 SP Championship Champions of the Court #C25 Shawn Kemp
+   Year: 1995-96 | Brand: SP Championship | Set: Champions of the Court | #C25
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-sp-championship-champions-of-the-court-c25-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-sp-championship-champions-of-the-court-c25-shawn-kemp-back.jpg
+
+27. 1995-96 Stadium Club Members Only Parallel II #PZ9 Shawn Kemp
+   Year: 1995-96 | Brand: Stadium Club Members Only Parallel II | Set: Power Zone | #PZ9
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-stadium-club-members-only-parallel-ii-pz9-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-stadium-club-members-only-parallel-ii-pz9-shawn-kemp-back.jpg
+
+28. 1995-96 Topps Top Flight #TF7 Shawn Kemp
+   Year: 1995-96 | Brand: Topps | Set: Top Flight | #TF7
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-topps-top-flight-tf7-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-topps-top-flight-tf7-shawn-kemp-back.jpg
+
+29. 1995-96 Ultra All-NBA Gold Medallion #7 Shawn Kemp
+   Year: 1995-96 | Brand: Ultra | Set: All-NBA Gold Medallion | #7
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-ultra-all-nba-gold-medallion-7-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-ultra-all-nba-gold-medallion-7-shawn-kemp-back.jpg
+
+30. 1995-96 Ultra Power Gold Medallion #4 Shawn Kemp
+   Year: 1995-96 | Brand: Ultra | Set: Power Gold Medallion | #4
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-ultra-power-gold-medallion-4-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1995-96-ultra-power-gold-medallion-4-shawn-kemp-back.jpg
+
+31. 1996-97 Hoops Starting Five #25 Hersey Hawkins/Shawn Kemp/Gary Payton/Sam Perkins/Detlef Schrempf/Seattle
+   Year: 1996-97 | Brand: Hoops | Set: Starting Five | #25
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-hoops-starting-five-25-hersey-hawkins-shawn-kemp-gary-payton-sam-perkins-detlef-schrempf-seattle.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-hoops-starting-five-25-hersey-hawkins-shawn-kemp-gary-payton-sam-perkins-detlef-schrempf-seattle-back.jpg
+
+32. 1996-97 Metal Platinum Portraits #6 Shawn Kemp
+   Year: 1996-97 | Brand: Metal | Set: Platinum Portraits | #6
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-metal-platinum-portraits-6-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-metal-platinum-portraits-6-shawn-kemp-back.jpg
+
+33. 1996-97 Metal Steel Slammin' #7 Shawn Kemp
+   Year: 1996-97 | Brand: Metal | Set: Steel Slammin' | #47
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-metal-steel-slammin-7-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-metal-steel-slammin-7-shawn-kemp-back.jpg
+
+34. 1996-97 SkyBox Premium Close-Ups #CU5 Shawn Kemp
+   Year: 1996-97 | Brand: Skybox Premium | Set: Close-upsa | #CU5
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-skybox-premium-close-ups-cu5-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-skybox-premium-close-ups-cu5-shawn-kemp-back.jpg
+
+35. 1996-97 SkyBox Premium Rubies #109 Shawn Kemp
+   Year: 1996-97 | Brand: Skybox Premium | Set: Rubies | #109
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-skybox-premium-rubies-109-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-skybox-premium-rubies-109-shawn-kemp-back.jpg
+
+36. 1996-97 SP Game Film #GF10 Shawn Kemp
+   Year: 1996-97 | Brand: SP | Set: Game Film | #GF10
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-sp-game-film-gf10-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-sp-game-film-gf10-shawn-kemp-back.jpg
+
+37. 1996-97 SP Inside Info #IN7 Shawn Kemp
+   Year: 1996-97 | Brand: SP | Set: Inside Info | #IN7
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-sp-inside-info-in7-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-sp-inside-info-in7-shawn-kemp-back.jpg
+
+38. 1996-97 Stadium Club Gallery Player's Private Issue #2 Shawn Kemp
+   Year: 1996-97 | Brand: Stadium Club | Set: Gallery Player's Private Issue | #2
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-stadium-club-gallery-players-private-issue-2-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-stadium-club-gallery-players-private-issue-2-shawn-kemp-back.jpg
+
+39. 1996-97 Stadium Club Top Crop #TC5 Scottie Pippen/Shawn Kemp
+   Year: 1996-97 | Brand: Stadium Club | Set: Top Crop | #TC5
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-stadium-club-top-crop-tc5-scottie-pippen-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-stadium-club-top-crop-tc5-scottie-pippen-shawn-kemp-back.jpg
+
+40. 1996-97 Topps Chrome Pro Files #PF2 Shawn Kemp
+   Year: 1996-97 | Brand: Topps Chrome | Set: Pro Files | #PF2
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-topps-chrome-pro-files-pf2-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-topps-chrome-pro-files-pf2-shawn-kemp-back.jpg
+
+41. 1996-97 Topps Hobby Masters #HM25 Shawn Kemp
+   Year: 1996-97 | Brand: Topps | Set: Hobby Masters | #HM25
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-topps-hobby-masters-hm25-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-topps-hobby-masters-hm25-shawn-kemp-back.jpg
+
+42. 1996-97 Topps NBA at 50 #50 Shawn Kemp
+   Year: 1996-97 | Brand: Topps | Set: NBA at 50 | #50
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-topps-nba-at-50-50-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-topps-nba-at-50-50-shawn-kemp-back.jpg
+
+43. 1996-97 UD3 Superstar Spotlight #S7 Shawn Kemp
+   Year: 1996-97 | Brand: UD3 | Set: Superstar Spotlight | #S7
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-ud3-superstar-spotlight-s7-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-ud3-superstar-spotlight-s7-shawn-kemp-back.jpg
+
+44. 1996-97 UD3 The Winning Edge #W14 Shawn Kemp
+   Year: 1996-97 | Brand: UD3 | Set: The Winning Edge | #W14
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-ud3-the-winning-edge-w14-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-ud3-the-winning-edge-w14-shawn-kemp-back.jpg
+
+45. 1996-97 Upper Deck #160 Shawn Kemp/Gary Payton/Detlef Schrempf/Hersey Hawkins/Sam Perkins
+   Year: 1996-97 | Brand: Upper Deck | Set:  | #160
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-160-shawn-kemp-gary-payton-detlef-schrempf-hersey-hawkins-sam-perkins.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-160-shawn-kemp-gary-payton-detlef-schrempf-hersey-hawkins-sam-perkins-back.jpg
+
+46. 1996-97 Upper Deck Fast Break Connections #FB19 Shawn Kemp
+   Year: 1996-97 | Brand: Upper Deck | Set: Fast Break Connections | #FB19
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-fast-break-connections-fb19-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-fast-break-connections-fb19-shawn-kemp-back.jpg
+
+47. 1996-97 Upper Deck Generation Excitement #G18 Shawn Kemp
+   Year: 1996-97 | Brand: Upper Deck | Set: Generation Excitement | #G18
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-generation-excitement-g18-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-generation-excitement-g18-shawn-kemp-back.jpg
+
+48. 1996-97 Upper Deck Predictor Scoring 1 #P17 Shawn Kemp 35 PTS. L
+   Year: 1996-97 | Brand: Upper Deck | Set: Predictor Scoring 1 | #P17
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-predictor-scoring-1-p17-shawn-kemp-35-pts-l.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-predictor-scoring-1-p17-shawn-kemp-35-pts-l-back.jpg
+
+49. 1996-97 Upper Deck Predictor Scoring 2 #P16 Shawn Kemp 35 PTS. L
+   Year: 1996-97 | Brand: Upper Deck | Set: Predictor Scoring 2 | #P16
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-predictor-scoring-2-p16-shawn-kemp-35-pts-l.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1996-97-upper-deck-predictor-scoring-2-p16-shawn-kemp-35-pts-l-back.jpg
+
+50. 1997-98 Hoops Frequent Flyer Club #FF17 Shawn Kemp
+   Year: 1997-98 | Brand: Hoops | Set: Frequent Flyer Club | #FF17
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-hoops-frequent-flyer-club-ff17-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-hoops-frequent-flyer-club-ff17-shawn-kemp-back.jpg
+
+51. 1997-98 Hoops Frequent Flyer Club Upgrade #FF17 Shawn Kemp
+   Year: 1997-98 | Brand: Hoops | Set: Frequent Flyer Club Upgrade | #FF17
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-hoops-frequent-flyer-club-upgrade-ff17-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-hoops-frequent-flyer-club-upgrade-ff17-shawn-kemp-back.jpg
+
+52. 1997-98 Metal Universe Championship All-Millenium Team #16 Shawn Kemp
+   Year: 1997-98 | Brand: Metal Universe Championship | Set: All-Millennium Team | #16
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-metal-universe-championship-all-millenium-team-16-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-metal-universe-championship-all-millenium-team-16-shawn-kemp-back.jpg
+
+53. 1997-98 SkyBox Premium Jam Pack #JP3 Shawn Kemp
+   Year: 1997-98 | Brand: Skybox Premium | Set: Jam Pack | #JP3
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-skybox-premium-jam-pack-jp3-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-skybox-premium-jam-pack-jp3-shawn-kemp-back.jpg
+
+54. 1997-98 Stadium Club Hardcourt Heroics #H5 Shawn Kemp
+   Year: 1997-98 | Brand: Stadium Club | Set: Hardcourt Heroics | #H5
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-stadium-club-hardcourt-heroics-h5-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-stadium-club-hardcourt-heroics-h5-shawn-kemp-back.jpg
+
+55. 1997-98 Topps Chrome Topps 40 Refractors #T33 Shawn Kemp
+   Year: 1997-98 | Brand: Topps Chrome | Set: Topps 40 Refractors | #T33
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-topps-chrome-topps-40-refractors-t33-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-topps-chrome-topps-40-refractors-t33-shawn-kemp-back.jpg
+
+56. 1997-98 UD3 Awesome Action #A4 Shawn Kemp
+   Year: 1997-98 | Brand: UD3 | Set: Awesome Action | #A4
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-ud3-awesome-action-a4-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-ud3-awesome-action-a4-shawn-kemp-back.jpg
+
+57. 1997-98 Ultra Gold Medallion #260 Shawn Kemp GRE
+   Year: 1997-98 | Brand: Ultra | Set: Gold Medallion | #260
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-ultra-gold-medallion-260-shawn-kemp-gre.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-ultra-gold-medallion-260-shawn-kemp-gre-back.jpg
+
+58. 1997-98 Ultra Star Power Plus #SPP6 Shawn Kemp
+   Year: 1997-98 | Brand: Ultra | Set: Star Power Plus | #SPP6
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-ultra-star-power-plus-spp6-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1997-98-ultra-star-power-plus-spp6-shawn-kemp-back.jpg
+
+59. 1998 Upper Deck Hardcourt High Court #H5 Shawn Kemp
+   Year: 1998-99 | Brand: Upper Deck Hardcourt | Set: High Court | #H5
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-upper-deck-hardcourt-high-court-h5-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-upper-deck-hardcourt-high-court-h5-shawn-kemp-back.jpg
+
+60. 1998 Upper Deck Hardcourt Home Court Advantage #10 Shawn Kemp
+   Year: 1998-99 | Brand: Upper Deck Hardcourt | Set: Home Court Advantage | #10
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-upper-deck-hardcourt-home-court-advantage-10-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-upper-deck-hardcourt-home-court-advantage-10-shawn-kemp-back.jpg
+
+61. 1998-99 Hoops Pump Up The Jam #8 Shawn Kemp
+   Year: 1998-99 | Brand: Hoops | Set: Pump Up The Jam | #8
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-hoops-pump-up-the-jam-8-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-hoops-pump-up-the-jam-8-shawn-kemp-back.jpg
+
+62. 1998-99 SkyBox Molten Metal #142 Shawn Kemp
+   Year: 1998-99 | Brand: Skybox Molten Metal | Set:  | #142
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-skybox-molten-metal-142-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-skybox-molten-metal-142-shawn-kemp-back.jpg
+
+63. 1998-99 SkyBox Molten Metal Xplosion #142 Shawn Kemp
+   Year: 1998-99 | Brand: Skybox Molten Metal | Set: Xplosion | #142
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-skybox-molten-metal-xplosion-142-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-skybox-molten-metal-xplosion-142-shawn-kemp-back.jpg
+
+64. 1998-99 SPx Finite Radiance #36 Shawn Kemp
+   Year: 1998-99 | Brand: SPx Finite | Set: Radiance | #36
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-spx-finite-radiance-36-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-spx-finite-radiance-36-shawn-kemp-back.jpg
+
+65. 1998-99 Topps Chrome Coast to Coast #CC10 Shawn Kemp
+   Year: 1998-99 | Brand: Topps Chrome | Set: Coast To Coast | #CC10
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-topps-chrome-coast-to-coast-cc10-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-topps-chrome-coast-to-coast-cc10-shawn-kemp-back.jpg
+
+66. 1998-99 Topps Chrome Coast to Coast Refractors #CC10 Shawn Kemp
+   Year: 1998-99 | Brand: Topps Chrome | Set: Coast To Coast Refractors | #CC10
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-topps-chrome-coast-to-coast-refractors-cc10-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1998-99-topps-chrome-coast-to-coast-refractors-cc10-shawn-kemp-back.jpg
+
+67. 1999-00 Stadium Club Onyx Extreme #OE8 Shawn Kemp
+   Year: 1999-00 | Brand: Stadium Club | Set: Onyx Extreme | #OE8
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-stadium-club-onyx-extreme-oe8-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-stadium-club-onyx-extreme-oe8-shawn-kemp-back.jpg
+
+68. 1999-00 Stadium Club Onyx Extreme Die Cut #OE8 Shawn Kemp
+   Year: 1999-00 | Brand: Stadium Club | Set: Onyx Extreme Die Cut | #OE8
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-stadium-club-onyx-extreme-die-cut-oe8-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-stadium-club-onyx-extreme-die-cut-oe8-shawn-kemp-back.jpg
+
+69. 1999-00 Topps Chrome All-Etch #AE4 Shawn Kemp
+   Year: 1999-00 | Brand: Topps Chrome | Set: All-Etch | #AE4
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-topps-chrome-all-etch-ae4-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-topps-chrome-all-etch-ae4-shawn-kemp-back.jpg
+
+70. 1999-00 Ultimate Victory Surface to Air #SA10 Shawn Kemp
+   Year: 1999-00 | Brand: Ultimate Victory | Set: Surface to Air | #SA10
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-ultimate-victory-surface-to-air-sa10-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-ultimate-victory-surface-to-air-sa10-shawn-kemp-back.jpg
+
+71. 1999-00 Ultra Gold Medallion #99 Shawn Kemp
+   Year: 1999-00 | Brand: Ultra | Set: Gold Medallion | #99
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-ultra-gold-medallion-99-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-ultra-gold-medallion-99-shawn-kemp-back.jpg
+
+72. 1999-00 Upper Deck Hardcourt Power in the Paint #P6 Shawn Kemp
+   Year: 1999-00 | Brand: Upper Deck Hardcourt | Set: Power in the Paint | #P6
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-upper-deck-hardcourt-power-in-the-paint-p6-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/1999-00-upper-deck-hardcourt-power-in-the-paint-p6-shawn-kemp-back.jpg
+
+73. 2000-01 Topps Gold Label Class 1 #14 Shawn Kemp
+   Year: 2000-01 | Brand: Topps Gold Label | Set: Class 1 | #14
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/2000-01-topps-gold-label-class-1-14-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/2000-01-topps-gold-label-class-1-14-shawn-kemp-back.jpg
+
+74. 2000-01 Upper Deck Hardcourt #10 Shawn Kemp
+   Year: 2000-01 | Brand: Upper Deck Hardcourt | Set:  | #10
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/2000-01-upper-deck-hardcourt-10-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/2000-01-upper-deck-hardcourt-10-shawn-kemp-back.jpg
+
+75. 2001-02 Topps Heritage #66 Shawn Kemp
+   Year: 2000-01 | Brand: Topps Heritage | Set:  | #66
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/2001-02-topps-heritage-66-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/2001-02-topps-heritage-66-shawn-kemp-back.jpg
+
+76. 2010-11 Playoff National Treasures #150 Shawn Kemp
+   Year: 2010-11 | Brand: Playoff National Treasures | Set:  | #150
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/2010-11-playoff-national-treasures-150-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/2010-11-playoff-national-treasures-150-shawn-kemp-back.jpg
+
+77. 2012-13 Panini Past and Present Shattered Black #46 Shawn Kemp
+   Year: 2012-13 | Brand: Panini Past and Present | Set: Shattered Black | #46
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/2012-13-panini-past-and-present-shattered-black-46-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/2012-13-panini-past-and-present-shattered-black-46-shawn-kemp-back.jpg
+
+78. 2013-14 Pinnacle #256 Shawn Kemp
+   Year: 2013-14 | Brand: Pinnacle | Set:  | #256
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/2013-14-pinnacle-256-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/2013-14-pinnacle-256-shawn-kemp-back.jpg
+
+79. 2013-14 Pinnacle Clear Vision 1st Quarter #95 Shawn Kemp
+   Year: 2013-14 | Brand: Pinnacle | Set: Clear Vision 1st Quarter | #95
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/2013-14-pinnacle-clear-vision-1st-quarter-95-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/2013-14-pinnacle-clear-vision-1st-quarter-95-shawn-kemp-back.jpg
+
+80. 2020-21 Donruss Optic Signature Series Purple #13 Shawn Kemp
+   Year: 2020-21 | Brand: Donruss Optic | Set: Signature Series Purple | #13
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/2020-21-donruss-optic-signature-series-purple-13-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/2020-21-donruss-optic-signature-series-purple-13-shawn-kemp-back.jpg
+
+81. 2020-21 Hoops Legends of the Ball #10 Shawn Kemp
+   Year: 2020-21 | Brand: Hoops | Set: Legends of the Ball | #10
+   Current Front URL: https://reignmancollection.wordpress.com/wp-content/uploads/2020-21-hoops-legends-of-the-ball-10-shawn-kemp.jpg
+   Current Back URL: https://reignmancollection.wordpress.com/wp-content/uploads/2020-21-hoops-legends-of-the-ball-10-shawn-kemp-back.jpg
+
