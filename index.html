@@ -127,7 +127,7 @@
             align-items: center;
             justify-content: center;
             gap: 20px;
-            flex-wrap: wrap;
+            flex-wrap: nowrap;
         }
 
         .header-logo {
@@ -732,6 +732,12 @@
             height: auto;
             border-radius: 10px;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .detail-image-container img:hover {
+            transform: scale(1.02);
+            box-shadow: 0 15px 50px rgba(255, 194, 0, 0.4);
         }
 
         .detail-info {
@@ -1289,11 +1295,15 @@
                 <div class="detail-images">
                     <div class="detail-image-container">
                         <h3>Front</h3>
-                        <img src="${frontImg}" alt="Card Front" onerror="this.src='${placeholder}'">
+                        <a href="${frontImg}" target="_blank" rel="noopener noreferrer">
+                            <img src="${frontImg}" alt="Card Front" onerror="this.src='${placeholder}'" style="cursor: pointer;">
+                        </a>
                     </div>
                     <div class="detail-image-container">
                         <h3>Back</h3>
-                        <img src="${backImg}" alt="Card Back" onerror="this.src='${placeholder}'">
+                        <a href="${backImg}" target="_blank" rel="noopener noreferrer">
+                            <img src="${backImg}" alt="Card Back" onerror="this.src='${placeholder}'" style="cursor: pointer;">
+                        </a>
                     </div>
                 </div>
 
